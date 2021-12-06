@@ -30,10 +30,23 @@ The analysis on the 2017 and 2018 yearly return shows that only EPNH and RUN per
 ###### All Stock Analysis (2018)
 ![Screen Shot 2021-12-05 at 11 11 34 PM](https://user-images.githubusercontent.com/93900628/144792210-ee0a0c52-760c-4c6d-b119-2d57d6afac31.png)
 
+###### Refactored Code:
+Steve has determined that he could use this workbook to analyse data for future years and has asked to refactor the VBA code so that it runs faster.
+
+The orginal code took almost 0.30 seconds to run for 2017 and 0.296 seconds for 2018. (see screenshots below)
+
+![Screen Shot 2021-12-05 at 9 41 04 PM](https://user-images.githubusercontent.com/93900628/144794000-1794d49c-ee61-4df3-a0d2-824e6b8861d8.png)![Screen Shot 2021-12-05 at 9 42 02 PM](https://user-images.githubusercontent.com/93900628/144794048-34788b67-bd96-4512-a40a-abfa180835b0.png)
+
+After the code was refactored it took 0.085 seconds to run for 2017 and .078 seconds to run for 2018.
+
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/93900628/144794524-b2a681c2-e56d-4446-ba80-ad4604d091bc.png)![VBA_Challenge_2018](https://user-images.githubusercontent.com/93900628/144794540-98062c34-18fb-48c9-9560-5f3ec23ecda1.png)
+
 #####
 
 ### Summary
 ##### What are the advantages or disadvantages of refactoring code?
+
+
 ##### How do these pros and cons apply to refactoring the original VBA script?
 
 
