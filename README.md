@@ -12,9 +12,20 @@ Steve's parents are interested in investing in Green Energy Stock, they are look
 
 ### Results
 
+Definations (referenced from Module 2.2.1)
+
+ - Total Daily volume is sum all the total number of shares traded throughout the day in the year; it measures how actively a stock is traded. 
+ - Yearly return is the percentage difference in price from the beginning of the year to the end of the year.
+
+#### DQ Analysis (2018):
+The data from 2018 was used to determine the Total Daily volume which was almost 108M as well as the yearly return of -63%. Steve decided to do an analysis on all 12 of the stock for 2017 and 2018 since the 2018 return on DQ was so poor.
+
+#### All Stock Analysis (2017-2018):
+
+###### All Stock Analysis (2017)
 ![Screen Shot 2021-12-05 at 11 11 21 PM](https://user-images.githubusercontent.com/93900628/144792190-964502c4-5e73-424f-b5f2-fb831ed9a635.png)
 
-
+###### All Stock Analysis (2018)
 ![Screen Shot 2021-12-05 at 11 11 34 PM](https://user-images.githubusercontent.com/93900628/144792210-ee0a0c52-760c-4c6d-b119-2d57d6afac31.png)
 
 
