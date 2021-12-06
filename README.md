@@ -22,15 +22,15 @@ The data from 2018 was used to determine the Total Daily volume which was almost
 
 #### All Stock Analysis (2017-2018):
 
+The analysis on the 2017 and 2018 yearly return shows that only EPNH and RUN performed better in 2018, all other stock had poor performanses in 2018 vs. 2017. (see screenshots for results)
+
 ###### All Stock Analysis (2017)
-![Screen Shot 2021-12-05 at 11 11 21 PM](https://user-images.githubusercontent.com/93900628/144792190-964502c4-5e73-424f-b5f2-fb831ed9a635.png)
+![Screen Shot 2021-12-05 at 11 11 21 PM](https://user-images.githubusercontent.com/93900628/144792190-964502c4-5e73-424f-b5f2-fb831ed9a635.png) 
 
 ###### All Stock Analysis (2018)
 ![Screen Shot 2021-12-05 at 11 11 34 PM](https://user-images.githubusercontent.com/93900628/144792210-ee0a0c52-760c-4c6d-b119-2d57d6afac31.png)
 
-The analysis on the 2017 and 2018 yearly return shows that only EPNH and RUN performed better in 2018, all other stock had poor performanses in 2018 vs. 2017.
-
-
+#####
 
 ### Summary
 ##### What are the advantages or disadvantages of refactoring code?
