@@ -50,5 +50,5 @@ After the code was refactored it took 0.085 seconds to run for 2017 and .078 sec
 
 ##### How do these pros and cons apply to refactoring the original VBA script?
 - Pros: The time to run the code has been cut done by almost 300%, this will be espicially true once Steve starts using this workbook to analyze massive amounts of data.
-- Cons: There were some modified code that need debugging and that was time - consuming to debug the code. If was a file with 1000s of lines of code it would be very time consuming as well require resources to be expended to debug it.
+- Cons: There were some modified code that need debugging and that was time - consuming to debug the code. If this a workbook with 1000s of lines of code it would be very time consuming as well require resources to be expended to debug it.
 
