@@ -7,10 +7,10 @@ An Analysis on Green Energy Stock.
 
 ## Overview of Project
 
-### Purpose
+### Purpose:
 Steve's parents are interested in investing in Green Energy Stock, they are looking at putting all their money in to DAQO New Energy Corp. (ticker DQ), they have not done any research on DQ and have asked Steve to help them with their decision. Steve has data for 12 Green Energy Stocks for the years 2017 and 2018. Steve is going to use this data to determine the Total Daily Volume and Yearly Return, based on this he can give his parents an informed recomendation.
 
-### Results
+### Results:
 
 Definations (referenced from Module 2.2.1)
 
@@ -43,7 +43,7 @@ After the code was refactored it took 0.085 seconds to run for 2017 and .078 sec
 
 #####
 
-### Summary
+### Summary:
 ##### What are the advantages or disadvantages of refactoring code?
 - Advantages of refactoring code is that it improves readability, the code is cleaner and much easier to comprehend. When working with big sets of data, you can save a considerable amount of time as the code runs faster.
 
